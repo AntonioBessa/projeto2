@@ -13,9 +13,30 @@
 # limitations under the License.
 
 import streamlit as st
-from streamlit.logger import get_logger
+from streamlit.logger import get_logger #Antonio
 
 LOGGER = get_logger(__name__)
+
+@juanegito's untitled project Private
+#1 updated Nov 3, 2023
+
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+
 
 
 def run():
